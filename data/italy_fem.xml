@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:wb="http://www.worldbank.org">
+	 <data type="Agriculture">
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1980</field>
+	     <field name="Value">16</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1981</field>
+	     <field name="Value">14.7</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1982</field>
+	     <field name="Value">13.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1983</field>
+	     <field name="Value">13.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1984</field>
+	     <field name="Value">12.5</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1985</field>
+	     <field name="Value">11.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1986</field>
+	     <field name="Value">11.5</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1987</field>
+	     <field name="Value">10.7</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1988</field>
+	     <field name="Value">9.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1989</field>
+	     <field name="Value">9.5</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1990</field>
+	     <field name="Value">9.1</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1991</field>
+	     <field name="Value">8.8</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1992</field>
+	     <field name="Value">8.6</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1993</field>
+	     <field name="Value">7.2</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1994</field>
+	     <field name="Value">6.8</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1995</field>
+	     <field name="Value">6.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1996</field>
+	     <field name="Value">5.6</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1997</field>
+	     <field name="Value">5.2</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1998</field>
+	     <field name="Value">5.1</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">1999</field>
+	     <field name="Value">4.5</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2000</field>
+	     <field name="Value">4.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2001</field>
+	     <field name="Value">4.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2002</field>
+	     <field name="Value">3.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2003</field>
+	     <field name="Value">3.7</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2004</field>
+	     <field name="Value">3.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2005</field>
+	     <field name="Value">3.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2006</field>
+	     <field name="Value">3.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2007</field>
+	     <field name="Value">3.1</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2008</field>
+	     <field name="Value">2.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2009</field>
+	     <field name="Value">2.7</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2010</field>
+	     <field name="Value" />
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.AGR.EMPL.FE.ZS">Employees, agriculture, female (% of female employment)</field>
+	     <field name="Year">2011</field>
+	     <field name="Value" />
+	   </record>
+	 </data>
+	
+	 <data type="Industry">
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1980</field>
+	     <field name="Value">27.7</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1981</field>
+	     <field name="Value">27.5</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1982</field>
+	     <field name="Value">27</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1983</field>
+	     <field name="Value">26</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1984</field>
+	     <field name="Value">24.6</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1985</field>
+	     <field name="Value">23.8</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1986</field>
+	     <field name="Value">23.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1987</field>
+	     <field name="Value">22.7</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1988</field>
+	     <field name="Value">22.7</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1989</field>
+	     <field name="Value">22.8</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1990</field>
+	     <field name="Value">22.6</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1991</field>
+	     <field name="Value">22.1</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1992</field>
+	     <field name="Value">23.1</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1993</field>
+	     <field name="Value">23.1</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1994</field>
+	     <field name="Value">22.8</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1995</field>
+	     <field name="Value">22.7</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1996</field>
+	     <field name="Value">22.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1997</field>
+	     <field name="Value">21.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1998</field>
+	     <field name="Value">21.5</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">1999</field>
+	     <field name="Value">21.1</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2000</field>
+	     <field name="Value">20.5</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2001</field>
+	     <field name="Value">20.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2002</field>
+	     <field name="Value">20.1</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2003</field>
+	     <field name="Value">19.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2004</field>
+	     <field name="Value">17.8</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2005</field>
+	     <field name="Value">17.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2006</field>
+	     <field name="Value">16.7</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2007</field>
+	     <field name="Value">16.5</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2008</field>
+	     <field name="Value">15.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2009</field>
+	     <field name="Value">14.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2010</field>
+	     <field name="Value" />
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.IND.EMPL.FE.ZS">Employees, industry, female (% of female employment)</field>
+	     <field name="Year">2011</field>
+	     <field name="Value" />
+	   </record>
+	 </data>
+	
+	<data type="Services">
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1980</field>
+	     <field name="Value">56.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1981</field>
+	     <field name="Value">57.8</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1982</field>
+	     <field name="Value">59.6</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1983</field>
+	     <field name="Value">60.6</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1984</field>
+	     <field name="Value">62.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1985</field>
+	     <field name="Value">64.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1986</field>
+	     <field name="Value">65.2</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1987</field>
+	     <field name="Value">66.6</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1988</field>
+	     <field name="Value">67.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1989</field>
+	     <field name="Value">67.7</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1990</field>
+	     <field name="Value">68.2</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1991</field>
+	     <field name="Value">69.1</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1992</field>
+	     <field name="Value">68.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1993</field>
+	     <field name="Value">69.6</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1994</field>
+	     <field name="Value">70.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1995</field>
+	     <field name="Value">70.8</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1996</field>
+	     <field name="Value">71.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1997</field>
+	     <field name="Value">72.8</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1998</field>
+	     <field name="Value">73.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">1999</field>
+	     <field name="Value">74.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2000</field>
+	     <field name="Value">75</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2001</field>
+	     <field name="Value">75</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2002</field>
+	     <field name="Value">75.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2003</field>
+	     <field name="Value">76.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2004</field>
+	     <field name="Value">78.8</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2005</field>
+	     <field name="Value">79.2</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2006</field>
+	     <field name="Value">79.9</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2007</field>
+	     <field name="Value">80.4</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2008</field>
+	     <field name="Value">81.1</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2009</field>
+	     <field name="Value">82.3</field>
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2010</field>
+	     <field name="Value" />
+	   </record>
+	   <record>
+	     <field name="Country or Area" key="ITA">Italy</field>
+	     <field name="Item" key="SL.SRV.EMPL.FE.ZS">Employees, services, female (% of female employment)</field>
+	     <field name="Year">2011</field>
+	     <field name="Value" />
+	   </record>
+	 </data>
+</Root>

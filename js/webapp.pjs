@@ -1,0 +1,34 @@
+var JS_SNAKE = {};
+
+JS_SNAKE.game = (function () {
+	
+	var circle;
+	
+	function init() {	
+		circle = new Path.Circle(new Point(100, 100), 20);
+		circle.fillColor = 'black';
+		blah();
+	}
+
+	function blah(){
+
+			console.log(circle.id);
+			console.log($('#mainCanvas 2').height());
+			var copy = circle.clone();
+			copy.strokeColor = 'red';
+			
+			copy.scale(0.5, new Point(0, 0));
+			console.log(copy.id);
+
+	}
+	
+	return {
+	    init: init
+	  };
+	
+})();
+
+
+$(document).ready(function () {
+  JS_SNAKE.game.init();
+});
