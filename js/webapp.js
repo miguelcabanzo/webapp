@@ -44,36 +44,71 @@ $(document).ready(function(){
 	drawRows();
 });
 
+	var y = [];
 /* initialize */
 function drawRows(){
 	// create group
 	years[year] = xmlDoc.documentElement.getElementsByTagName("data")[1].getElementsByTagName("record")[year].getElementsByTagName("field")[2].textContent;
-	window[years[year]] = paper.set();
-	
 
-	
 	// create objects
-	if (state == 'interactive' || state == 'complete'){		
-		for(i=0;i<xmlDoc.documentElement.getElementsByTagName("data").length;i++){	
+	if (state == 'interactive' || state == 'complete'){	
+		for(i=0;i<xmlDoc.documentElement.getElementsByTagName("data").length;i++){
+			y[i] = paper.set()
 			names[i] = xmlDoc.documentElement.getElementsByTagName("data")[i].attributes.getNamedItem("type").nodeValue;			
 			// draw rectangle and add name property
 			window[names[i]] = paper.rect(Math.round(windowW/years.length*year),0,Math.round(windowW/years.length),windowH);
 			window[names[i]].name = names[i];
-			window[years[year]].push(window[names[i]]);
-		}		
-	addStyles();	
-	animRows();
+			y[i].push(window[names[i]]);
+			
+			window[names[i]].attr({
+					cursor: 'pointer'
+					}).mouseover(function(){
+						console.log(this);
+						for(f=0;f<3;f++){
+					    	window[names[f]].attr('fill', color_hover);
+						}
+					});
+			
+		}
+	addStyles(y);	
+	animRows(y);
+	
+
+	
+//	console.log([years[year]]);
+//	console.log(y.length);
+	/*	
+	window[years[year]].hover(function() {
+		console.log(this.Groups.length);
+
+	  for (var i = 0, ii = this.Groups.length; i < ii; ++i) {
+	    var set = this.paper.Groups[this.Groups[i]];
+	    for (var j = 0, jj = set.items.length; j < jj; ++j) {
+	      set.items[j].attr({'fill' : '#000000'});
+	    }
+	  }
+	});
+		*/
+	
+	
 	}
-	window[years[year]].attr({
+
+}
+function addStyles(foo){
+	for(i=0;i<names.length;i++){
+		window[names[i]].attr({'fill':rectColors[i],'stroke-width':0});
+	}	
+	
+	console.log(foo);
+//	foo.attr({'fill':'pointer'});
+	
+/*	window[years[year]].attr({
 		cursor: 'pointer'
 		}).mouseover(function(e){
 		    this.attr('fill', color_hover);
 		});
-}
-function addStyles(){
-	for(i=0;i<names.length;i++){
-		window[names[i]].attr({'fill':rectColors[i],'stroke-width':0});
-	}
+*/	
+	
 }
 function calcSizes(theyear){
 	for(i=0;i<names.length;i++){
@@ -89,14 +124,14 @@ function calcSizes(theyear){
 	}
 }
 
-function animRows(){
+function animRows(set){
 	//console.log(year);
 	calcSizes(year);	
 	// print date
 	//$('.year').html(xmlDoc.documentElement.getElementsByTagName("data")[1].getElementsByTagName("record")[year].getElementsByTagName("field")[2].textContent);
 	
 	for(i=0;i<names.length;i++){
-		window[names[i]].animate({'y':Math.round(rowPos[i])}, speed, 'backOut');
+		set[i].animate({'y':Math.round(rowPos[i])}, speed, 'backOut');
 //		window[names[i]].animate({'height':rowSize[i]}, speed-init/2, '<');
 	}
 	setTimeout(function(){
